@@ -1,2 +1,8 @@
 # ignore macos local file
 .DS_Store
+
+# ignore .text file
+*.txt
+
+# ignore .csv file
+*.csv
